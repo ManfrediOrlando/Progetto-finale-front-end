@@ -1,0 +1,646 @@
+{
+  "fetchAlert": "L'account esiste gia'",
+  "language": {
+    "english": "INGLESE",
+    "spanish": "SPAGNOLO",
+    "german": "TEDESCO",
+    "french": "FRANCESE",
+    "italian": "ITALIANO"
+  },
+  "header": {
+    "navbar": {
+      "pricing": "Prezzo",
+      "features": "Caratteristiche",
+      "login": "Login",
+      "dashboard": "Pannello di controllo",
+      "signUp": "Iscrizione",
+      "logout": "Disconnettersi"
+    },
+    "modalComponent": "Chiudere",
+    "tabsComponent": {
+      "login": "Login",
+      "signUp": "Iscrizione"
+    },
+    "loginForm": {
+      "alert": "Email o password errate. Riprova",
+      "email": "E-mail",
+      "password": "Parola d'ordine",
+      "login": "Login"
+    },
+    "signUpForm": {
+      "alert": "Registrazione completata con successo",
+      "alertMail": "Email già in uso",
+      "alertError": "Riprova",
+      "firstName": "Nome di battesimo",
+      "lastName": "Cognome",
+      "email": "E-mail",
+      "password": "Password",
+      "confirmPassword": "Conferma password",
+      "phone": "Telefono",
+      "contract": "Accetto i Termini di servizio",
+      "signUp": "Iscrizione"
+    }
+  },
+  "contactUs": {
+    "title": "Contattaci",
+    "firstName": "Nome di battesimo",
+    "lastName": "Cognome",
+    "email": "E-mail",
+    "message": "Messaggio",
+    "close": "Chiudere"
+  },
+  "homepage": {
+    "hero": {
+      "title": "L'UNICO SELEZIONATORE DI OPZIONI FATTO PER TE",
+      "subTitle": "Ricevi avvisi commerciali. Annulla in qualsiasi momento",
+      "registration": "Inserisci la tua email per creare o riavviare la tua iscrizione",
+      "email": "E-mail",
+      "getStarted": "Iniziare"
+    },
+    "cardComponent": [
+      {
+        "img": "./assets/img/card-1.png",
+        "title": "Perché noi?",
+        "content": "Ex trader che costruiscono l'algoritmo di intelligenza artificiale migliore, che realizza grandi profitti in pochi minuti al giorno. Siamo ex-quanti con 37 anni di esperienza combinati. Il software Optionsfy seleziona per te il ticker, gli avvertimenti e le date di scadenza in modo che tu possa trarre profitto senza lunghe congetture. È alimentato da un algoritmo alimentato con 10 anni di dati e 10 fattori che hanno dimostrato di funzionare. Optionsfy ti fa risparmiare tempo e ti rende più redditizio con rendimenti elevati e operazioni coerenti in pochi minuti in TUTTI GLI AMBIENTI DI MERCATO."
+      },
+      {
+        "img": "./assets/img/card-2.png",
+        "title": "Vantaggio competitivo dell'intelligenza artificiale",
+        "content": "Sfrutta la potenza dell'IA leader del settore algoritmi supportati. Algoritmi simili utilizzati dai migliori hedge fund sono ora a portata di mano. La nostra tecnologia HotScore aggrega i dati da più fonti per mostrarti in modo rapido e chiaro le migliori opzioni per fare trading FATTO PER TE."
+      },
+      {
+        "img": "./assets/img/card-3.png",
+        "title": "Velocità e tempo sono al centro",
+        "content": "La velocità significa tutto nel trading. Con notifiche perfettamente sincronizzate per posizionare le negoziazioni vincenti davanti alla concorrenza, non perdere mai un'altra opportunità con tutte le migliori negoziazioni di opzioni consegnate quotidianamente nella tua casella di posta all'apertura del mercato."
+      },
+      {
+        "img": "./assets/img/card-4.png",
+        "title": "Scansione a catena di opzioni integrata",
+        "content": "Sopraffatto dalla variazione dei prezzi di esercizio e quali opzioni acquistare? Esaminiamo l'intera catena di opzioni in modo che tu non debba, ricercando in anticipo ogni possibile operazione e consigliandoti le migliori giocate"
+      },
+      {
+        "img": "./assets/img/card-5.png",
+        "title": "Potente sia per i principianti che per i professionisti esperti",
+        "content": "Sia che tu stia appena iniziando il tuo viaggio con le opzioni o lavori per strada da solo, i nostri strumenti sono abbastanza facili da usare a partire dal primo giorno e ti offrono le conoscenze competitive apprese in anni di tentativi ed errori."
+      }
+    ],
+    "offerCard": {
+      "yearSubscribe": "Solo $ 670 /anno",
+      "monthSubscribe": "Solo $ 67 al mese",
+      "saveMoney": "RISPARMIA 134$ ALL'ANNO",
+      "dailyOption": "Consigli sulle opzioni giornaliere",
+      "suggestedStrike": "Prezzi di esercizio suggeriti per ogni simbolo",
+      "optionStrategies": "8 strategie di opzioni consigliate",
+      "betterOption": "Sistema di classificazione per opzioni migliori",
+      "indicators": "Indicatori proprietari",
+      "subscribe": "Iscriviti ora"
+    }
+  },
+  "dashboard": {
+    "welcome": "Ben arrivato",
+    "texts": [
+      {
+        "id": 0,
+        "title": "Lorem, ipsum dolor.",
+        "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur ipsa velit aliquam debitis quae architecto eum praesentium vitae saepe veniam exercitationem sed natus repellat corporis qui nobis, quia cumque fugiat nemo? Assumenda consectetur possimus, ipsa ullam dignissimos labore iste eos corrutti, provident, ipsum deleniti. Provident veritatis fugiat, quisquam autem natus quia ad! Atque rem deleniti maiores? Assumenda officiis ullam earum commodi alias iusto, esse eos, at sit facere cupiditate, sed similique sequi impedit mollitia nam adipisci voluptatem. Libero corporis modi laboriosam nihil tempora sit corrotti reiciendis mollitia et dolorum amet ullam neque repellat quasi, eligendi exceluri dolores quibusdam harum! Neque consequatur repellendus commodi iure ea, optio suscipit quia ipsum doloribus aliquid perferendis fuga numquam voluptas illo, ducimus itaque, unde alias quo debitis enim. Optio, iste porro aut quidem voluptates beatae? Non voluptate maiores exercitationem in? Sit voluptatum ullam sunt deleniti consequuntur numquam nam! Dolorum qui eaque maxime accusamus quam nisi, totam perspiciatis facere quasi voluptatibus molestiae odio assumenda deleniti labore aliquam aliquid rem possimus repellendus architecto. Eos iste aliquid sunt repudiandae perspiciatis reiciendis! Cum modi suscipit odit qui ipsam obcaecati quod, labore nihil laudantium? Aut cum, debitis labore tempore, vel quam recusandae modi voluptatibus quia voluptatum dolorem? Dolor, non! Maiores pariatur debitis, vitae ea laboriosam laborum at totam, magnam fuga voluptates, impedit incidunt aliquid ab repudiandae laudantium optio esse officia. Dolore natus incidunt saepe est eius vel laboriosam quam suscipit. Illum perspiciatis numquam non. Necessitatibus beatae nesciunt blanditiis consequuntur eum ex. A enim ea expedita quasi unde minus nihil maiores sed laborum omnis asperiores aspernatur et velit damagei, cumque impedit eos libero voluptatem odio illum rerum nulla debitis! Veritatis reiciendis repudiandae odio possimus pariatur, a tenetur deleniti nihil consectetur consequuntur sunt temporibus dignissimos tempora nam voluptas animi inventore dolores quam ipsa, consequatur accusantium! Nulla fugit eos culpa a aliquam porro at, quisquam et delectus similique explicabo numquam, repellendus veniam hic neque provident illum minus maiores ea blanditiis! Debitis minima consequuntur, fugit animi distintiio repudiandae, eos natus ea sunt perspiciatis porro officiis. Recusandae, dolorem temporibus? Officiis quo ipsa cupiditate dicta itaque accusamus, voluptate ipsum voluptatum incidunt cum dolore eligendi sunt rem expedita soluta atque nulla esse? Ipsam vitae nihil exercitationem adipisci quia mollitia similique cum ad facilis voluptatum nemo aliquid vero necessitatibus qui nulla, quidem quae id quas quis labore fuga alias dicta at? Siediti, praesentium optio laboriosam odit cum facilis ipsa quidem adipisci unde, voluptatibus maxime nulla voluptatum? Quisquam debitis culpa aliquam dolore corrotti sequi, doloribus exercitationem quasi pariatur sapiente illum, fugit similique porro! Ab, tempore eum. Commodi quod at amet necessitatibus architecto consequatur beatae enim eaque quaerat odios sunt ut sapiente, ducimus quidem deserunt minima mollitia labore officia exercitationem distintio omnis quas magni. Eius consequuntur modi deleniti repudiandae asperiores ratione, veritatis explicabo doloribus exercitationem minima ducimus assumenda quibusdam, similique doloremque possimus placeat iste nihil sint? Impedit harum Provident ab, ducimus iusto tenetur soluta tempore consequuntur. Ipsa delectus, nam nisi voluptatum temporibus dolorem consectetur odit aliquam architecto placeat molestias dolore velit amet, dolor sed illum in illo. Quas voluptates impedit libero laudantium, reprehenderit velit distintiio exercitationem iusto, dolor corrotti dolorum reiciendis ullam, quod et error voluptatibus expedita aut a voluptas vel! Cumque, necessitatibus officiis. Quasi iste dicta perferendis in ipsum, odio deleniti laudantium nesciunt illo velit reprehenderit saepe fugiat natus deserunt quas corporis dolor, suscipit dolores officia! Qui autem, itaque reprehenderit, quam delectus voluptate, asperiores non ad in pariatur enim sequi repellat sit! Molestiae blanditiis nisi quasi voluptas veritatis dolorem hic, voluptatum officia nihil, eligendi illum aut tempora ipsam vitae velit similique rerum consequatur mollitia optio et quis ratione sit ex!Libero cum ipsa optio itaque nesciunt, praesentium incidunt quia magni eius, perspiciatis, quisquam quas earum reprehenderit deserunt aliquam debitis. Omnis possimus commodi autem totam sapiente expedita nihil, aliquam blanditiis, enim dolore soluta dolor incidunt quia inventore. Tempore quis perferendis eaque suscipit tempora at distintiio iste. Repellat nostrum delectus ipsam? Id corporis consequatur ad ipsum aut accusantium dignissimos enim ipsam sed facere animi perspiciatis laborum similique placeat at iusto eius maxime asperiores culpa blanditiis eaque, ut repellendus quibusdam! Beata, vel cumque. Inventore nemo ad, dolorum velit quae dolores deserunt fuga recusandae, animi soluta neque quia rerum impedit quo? Delectus corporis, pariatur dignissimos nisi tempore magnam sint tempora, magni dolorem quia doloribus temporibus doloremque natus, ut repudiandae? Magnam, facilis ipsa aperiam maxime praesentium eos ab. Obcaecati ex repellat ad itaque, quas atque hic officia sapiente voluptas illum labore! Explicabo vero, facere neque deleniti dolorum quis voluptas quasi cum eligendi, ipsam quod expedita itaque voluptate cumque consectetur libero dicta obcaecati! Explicabo maxime architecto reiciendis inventore aut omnis neque molestiae, asperiores repellat in, ut voluptates eveniet fuga rerum, sed nesciunt non rem minima facilis atque quasi. Repellendus voluptatem reiciendis liquido. At recusandae totam delectus eligendi reiciendis officia facere et facilis iure voluptatibus eum repellendus impedit non enim praesentium qui aliquid fuga iusto rerum perspiciatis, labore doloribus laudantium! Provident ratione exercitationem eaque aut cupiditate adipisci autem doloremque inventore assumenda amet sint magni minima placeat, consequuntur iusto? Placeat eos amet aliquid neque cumque magnam, dolorem quidem minima, possimus quos sapiente adipisci inventore, suscipit facere modi id obcaecati commodi? Molestiae soluta corrotti itaque ipsam! Ut minus tempore atque sapiente doloremque cum et deleniti fugiat! Debitis voluptatum assumenda eos placeat necessitatibus. Necessitatibus, vero non. Quo in deserunt sunt aliquid et id doloribus, fuga aliquam necessitatibus exceptionuri amet dolore fugit porro voluptatem nam? Minima vitae nulla neque quos ipsam soluta cumque error magnam cum doloremque quod, tenetur rem doloribus iusto incidunt, quaerat aut reprehenderit aliquam reiciendis. Dolorem sed at impedit enim, inventore quasi voluptatem assumenda quos eaque sequi iusto nobis, minima, libero corruzione. Earum aliquid numquam eius dicta amet nisi accusantium pariatur nihil aperiam sint repellendus, vero quasi, labore, quam ipsa porro eaque cumque facere! Pariatur architecto iste quam sequi. Optio consequuntur esse ducimus repellat soluta hic doloremque consequatur laudantium delectus laborum accusamus, rem quo dolorum ipsum inventore necessitatibus nobis facilis pariatur? A dolorum voluptatibus, accusantium inventore consequuntur quae hic sint sed temporibus, tempora impedit dignissimos provident porro. Ex iste aliquam rem ipsum consequuntur perspiciatis libero."
+      },
+      {
+        "id": 1,
+        "title": "Lorem, ipsum dolor.",
+        "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur ipsa velit aliquam debitis quae architecto eum praesentium vitae saepe veniam exercitationem sed natus repellat corporis qui nobis, quia cumque fugiat nemo? Assumenda consectetur possimus, ipsa ullam dignissimos labore iste eos corrutti, provident, ipsum deleniti. Provident veritatis fugiat, quisquam autem natus quia ad! Atque rem deleniti maiores? Assumenda officiis ullam earum commodi alias iusto, esse eos, at sit facere cupiditate, sed similique sequi impedit mollitia nam adipisci voluptatem. Libero corporis modi laboriosam nihil tempora sit corrotti reiciendis mollitia et dolorum amet ullam neque repellat quasi, eligendi exceluri dolores quibusdam harum! Neque consequatur repellendus commodi iure ea, optio suscipit quia ipsum doloribus aliquid perferendis fuga numquam voluptas illo, ducimus itaque, unde alias quo debitis enim. Optio, iste porro aut quidem voluptates beatae? Non voluptate maiores exercitationem in? Sit voluptatum ullam sunt deleniti consequuntur numquam nam! Dolorum qui eaque maxime accusamus quam nisi, totam perspiciatis facere quasi voluptatibus molestiae odio assumenda deleniti labore aliquam aliquid rem possimus repellendus architecto. Eos iste aliquid sunt repudiandae perspiciatis reiciendis! Cum modi suscipit odit qui ipsam obcaecati quod, labore nihil laudantium? Aut cum, debitis labore tempore, vel quam recusandae modi voluptatibus quia voluptatum dolorem? Dolor, non! Maiores pariatur debitis, vitae ea laboriosam laborum at totam, magnam fuga voluptates, impedit incidunt aliquid ab repudiandae laudantium optio esse officia. Dolore natus incidunt saepe est eius vel laboriosam quam suscipit. Illum perspiciatis numquam non. Necessitatibus beatae nesciunt blanditiis consequuntur eum ex. A enim ea expedita quasi unde minus nihil maiores sed laborum omnis asperiores aspernatur et velit damagei, cumque impedit eos libero voluptatem odio illum rerum nulla debitis! Veritatis reiciendis repudiandae odio possimus pariatur, a tenetur deleniti nihil consectetur consequuntur sunt temporibus dignissimos tempora nam voluptas animi inventore dolores quam ipsa, consequatur accusantium! Nulla fugit eos culpa a aliquam porro at, quisquam et delectus similique explicabo numquam, repellendus veniam hic neque provident illum minus maiores ea blanditiis! Debitis minima consequuntur, fugit animi distintiio repudiandae, eos natus ea sunt perspiciatis porro officiis. Recusandae, dolorem temporibus? Officiis quo ipsa cupiditate dicta itaque accusamus, voluptate ipsum voluptatum incidunt cum dolore eligendi sunt rem expedita soluta atque nulla esse? Ipsam vitae nihil exercitationem adipisci quia mollitia similique cum ad facilis voluptatum nemo aliquid vero necessitatibus qui nulla, quidem quae id quas quis labore fuga alias dicta at? Siediti, praesentium optio laboriosam odit cum facilis ipsa quidem adipisci unde, voluptatibus maxime nulla voluptatum? Quisquam debitis culpa aliquam dolore corrotti sequi, doloribus exercitationem quasi pariatur sapiente illum, fugit similique porro! Ab, tempore eum. Commodi quod at amet necessitatibus architecto consequatur beatae enim eaque quaerat odios sunt ut sapiente, ducimus quidem deserunt minima mollitia labore officia exercitationem distintio omnis quas magni. Eius consequuntur modi deleniti repudiandae asperiores ratione, veritatis explicabo doloribus exercitationem minima ducimus assumenda quibusdam, similique doloremque possimus placeat iste nihil sint? Impedit harum Provident ab, ducimus iusto tenetur soluta tempore consequuntur. Ipsa delectus, nam nisi voluptatum temporibus dolorem consectetur odit aliquam architecto placeat molestias dolore velit amet, dolor sed illum in illo. Quas voluptates impedit libero laudantium, reprehenderit velit distintiio exercitationem iusto, dolor corrotti dolorum reiciendis ullam, quod et error voluptatibus expedita aut a voluptas vel! Cumque, necessitatibus officiis. Quasi iste dicta perferendis in ipsum, odio deleniti laudantium nesciunt illo velit reprehenderit saepe fugiat natus deserunt quas corporis dolor, suscipit dolores officia! Qui autem, itaque reprehenderit, quam delectus voluptate, asperiores non ad in pariatur enim sequi repellat sit! Molestiae blanditiis nisi quasi voluptas veritatis dolorem hic, voluptatum officia nihil, eligendi illum aut tempora ipsam vitae velit similique rerum consequatur mollitia optio et quis ratione sit ex!Libero cum ipsa optio itaque nesciunt, praesentium incidunt quia magni eius, perspiciatis, quisquam quas earum reprehenderit deserunt aliquam debitis. Omnis possimus commodi autem totam sapiente expedita nihil, aliquam blanditiis, enim dolore soluta dolor incidunt quia inventore. Tempore quis perferendis eaque suscipit tempora at distintiio iste. Repellat nostrum delectus ipsam? Id corporis consequatur ad ipsum aut accusantium dignissimos enim ipsam sed facere animi perspiciatis laborum similique placeat at iusto eius maxime asperiores culpa blanditiis eaque, ut repellendus quibusdam! Beata, vel cumque. Inventore nemo ad, dolorum velit quae dolores deserunt fuga recusandae, animi soluta neque quia rerum impedit quo? Delectus corporis, pariatur dignissimos nisi tempore magnam sint tempora, magni dolorem quia doloribus temporibus doloremque natus, ut repudiandae? Magnam, facilis ipsa aperiam maxime praesentium eos ab. Obcaecati ex repellat ad itaque, quas atque hic officia sapiente voluptas illum labore! Explicabo vero, facere neque deleniti dolorum quis voluptas quasi cum eligendi, ipsam quod expedita itaque voluptate cumque consectetur libero dicta obcaecati! Explicabo maxime architecto reiciendis inventore aut omnis neque molestiae, asperiores repellat in, ut voluptates eveniet fuga rerum, sed nesciunt non rem minima facilis atque quasi. Repellendus voluptatem reiciendis liquido. At recusandae totam delectus eligendi reiciendis officia facere et facilis iure voluptatibus eum repellendus impedit non enim praesentium qui aliquid fuga iusto rerum perspiciatis, labore doloribus laudantium! Provident ratione exercitationem eaque aut cupiditate adipisci autem doloremque inventore assumenda amet sint magni minima placeat, consequuntur iusto? Placeat eos amet aliquid neque cumque magnam, dolorem quidem minima, possimus quos sapiente adipisci inventore, suscipit facere modi id obcaecati commodi? Molestiae soluta corrotti itaque ipsam! Ut minus tempore atque sapiente doloremque cum et deleniti fugiat! Debitis voluptatum assumenda eos placeat necessitatibus. Necessitatibus, vero non. Quo in deserunt sunt aliquid et id doloribus, fuga aliquam necessitatibus exceptionuri amet dolore fugit porro voluptatem nam? Minima vitae nulla neque quos ipsam soluta cumque error magnam cum doloremque quod, tenetur rem doloribus iusto incidunt, quaerat aut reprehenderit aliquam reiciendis. Dolorem sed at impedit enim, inventore quasi voluptatem assumenda quos eaque sequi iusto nobis, minima, libero corruzione. Earum aliquid numquam eius dicta amet nisi accusantium pariatur nihil aperiam sint repellendus, vero quasi, labore, quam ipsa porro eaque cumque facere! Pariatur architecto iste quam sequi. Optio consequuntur esse ducimus repellat soluta hic doloremque consequatur laudantium delectus laborum accusamus, rem quo dolorum ipsum inventore necessitatibus nobis facilis pariatur? A dolorum voluptatibus, accusantium inventore consequuntur quae hic sint sed temporibus, tempora impedit dignissimos provident porro. Ex iste aliquam rem ipsum consequuntur perspiciatis libero."
+      }
+    ]
+  },
+  "notFound": "Torna alla home page",
+  "footer": {
+    "disclaimerText": "Dichiarazione di non responsabilità: tieni presente che il trading di azioni, futures, opzioni su azioni e opzioni su future comporta un rischio sostanziale di perdita e non è adatto a tutti gli investitori. Le performance passate non sono necessariamente indicative di risultati futuri. LE INFORMAZIONI SONO A SCOPO DIDATTICO E DI RICERCA GENERALI E NON DEVONO ESSERE INTEGRATE COME CONSIGLI INDIVIDUALI DI INVESTIMENTI. Maggiori informazioni qui",
+    "termOfService": "TERMINI DI SERVIZIO",
+    "privacyPolicy": "POLITICA SULLA RISERVATEZZA",
+    "disclaimer": "DISCLAIMER"
+  },
+  "privacyPolicy": [
+    {
+      "pageTitle": "politica sulla riservatezza",
+      "pageSubtitle": "Ultimo aggiornamento: 15 febbraio 2022. Questa Informativa sulla privacy descrive le nostre politiche e procedure sulla raccolta, l'uso e la divulgazione delle tue informazioni quando utilizzi il Servizio e ti informa sui tuoi diritti alla privacy e su come la legge ti protegge. Utilizziamo i tuoi dati personali per fornire e migliorare il Servizio. Utilizzando il Servizio, accetti la raccolta e l'utilizzo delle informazioni in conformità con la presente Informativa sulla privacy."
+    },
+    {
+      "sectionMainTitle": "Interpretazione e definizioni",
+      "sectionTitle": "Interpretazione",
+      "sectionTextContent": "Le parole di cui la lettera iniziale è maiuscola hanno significati definiti nelle seguenti condizioni. Le seguenti definizioni avranno lo stesso significato indipendentemente dal fatto che appaiano al singolare o al plurale."
+    },
+    {
+      "sectionTitle": "Definizioni",
+      "sectionTextContent": "Ai fini della presente Informativa sulla privacy:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "title": "Account",
+          "content": "indica un account unico creato per te per accedere al nostro Servizio o parti del nostro Servizio."
+        },
+        {
+          "id": 1,
+          "title": "Azienda",
+          "content": "(denominata \"la Società\", \"Noi\", \"Noi\" o \"Nostro\" nel presente Accordo) si riferisce a Optionsfy LLC, 7901 4th St N, STE 300 St. Petersburg, FL 33702."
+        },
+        {
+          "id": 2,
+          "title": "Biscotti",
+          "content": "sono piccoli file che vengono inseriti sul tuo computer, dispositivo mobile o qualsiasi altro dispositivo da un sito Web, contenenti i dettagli della tua cronologia di navigazione su quel sito Web tra i suoi numerosi usi."
+        },
+        {
+          "id": 3,
+          "title": "Paese",
+          "content": "si riferisce a: Florida, Stati Uniti"
+        },
+        {
+          "id": 4,
+          "title": "Dispositivo",
+          "content": "indica qualsiasi dispositivo in grado di accedere al Servizio come un computer, un cellulare o un tablet digitale."
+        },
+        {
+          "id": 5,
+          "title": "Dati personali",
+          "content": "è qualsiasi informazione relativa a una persona fisica identificata o identificabile."
+        },
+        {
+          "id": 6,
+          "title": "Servizio",
+          "content": "fa riferimento al Sito."
+        },
+        {
+          "id": 7,
+          "title": "Fornitore di servizi",
+          "content": "indica qualsiasi persona fisica o giuridica che tratta i dati per conto della Società. Si riferisce a società terze o persone alle dipendenze della Società per facilitare il Servizio, per fornire il Servizio per conto della Società, per eseguire servizi relativi al Servizio o per assistere la Società nell'analisi dell'utilizzo del Servizio."
+        },
+        {
+          "id": 8,
+          "title": "Dati di utilizzo",
+          "content": "si riferisce ai dati raccolti automaticamente, generati dall'utilizzo del Servizio o dall'infrastruttura del Servizio stesso (ad esempio, la durata di una visita alla pagina)."
+        },
+        {
+          "id": 9,
+          "title": "Sito web",
+          "content": "si riferisce a Optionsfy, accessibile da https://www.optionsfy.com/"
+        },
+        {
+          "id": 10,
+          "title": "Voi",
+          "content": "indica la persona che accede o utilizza il Servizio, o la società o altra entità legale per conto della quale tale persona accede o utilizza il Servizio, a seconda dei casi."
+        }
+      ]
+    },
+    {
+      "sectionMainTitle": "Raccolta e utilizzo dei tuoi dati personali",
+      "sectionMainSubTitle": "Tipi di dati raccolti",
+      "sectionTitle": "Dati personali",
+      "sectionTextContent": "Durante l'utilizzo del nostro servizio, potremmo chiederti di fornirci alcune informazioni di identificazione personale che possono essere utilizzate per contattarti o identificarti. Le informazioni di identificazione personale possono includere, ma non sono limitate a:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "content": "Indirizzo e-mail"
+        },
+        {
+          "id": 1,
+          "content": "Nome e cognome"
+        },
+        {
+          "id": 2,
+          "content": "Numero di telefono"
+        },
+        {
+          "id": 3,
+          "content": "Dati di utilizzo"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Dati di utilizzo",
+      "sectionTextContent": "I Dati di utilizzo vengono raccolti automaticamente durante l'utilizzo del Servizio. I Dati di utilizzo possono includere informazioni come l'indirizzo del protocollo Internet del tuo dispositivo (ad es. indirizzo IP), il tipo di browser, la versione del browser, le pagine del nostro Servizio che visiti, l'ora e la data della tua visita, il tempo trascorso su tali pagine, dispositivo unico identificatori e altri dati diagnostici. Quando accedi al Servizio da o tramite un dispositivo mobile, potremmo raccogliere alcune informazioni automaticamente, inclusi, a titolo esemplificativo, il tipo di dispositivo mobile che utilizzi, l'ID univoco del tuo dispositivo mobile, l'indirizzo IP del tuo dispositivo mobile, sistema operativo, il tipo di browser Internet mobile utilizzato, identificatori univoci del dispositivo e altri dati diagnostici. Potremmo anche raccogliere informazioni che il tuo browser invia ogni volta che visiti il nostro Servizio o quando accedi al Servizio da o tramite un dispositivo mobile."
+    },
+    {
+      "sectionTitle": "Tecnologie di tracciamento e cookie",
+      "sectionTextContent": "Utilizziamo cookie e tecnologie di tracciamento simili per tracciare l'attività sul nostro servizio e memorizzare determinate informazioni. Le tecnologie di tracciamento utilizzate sono beacon, tag e script per raccogliere e tenere traccia delle informazioni e per migliorare e analizzare il nostro servizio. Le tecnologie che utilizziamo possono includere:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "title": "Cookie o cookie del browser.",
+          "content": " Un cookie è un piccolo file posizionato sul tuo dispositivo. Puoi indicare al tuo browser di rifiutare tutti i cookie o di indicare quando un cookie viene inviato. Tuttavia, se non accetti i cookie, potresti non essere in grado di utilizzare alcune parti del nostro servizio. A meno che tu non abbia regolato le impostazioni del tuo browser in modo che rifiuti i cookie, il nostro servizio potrebbe utilizzare i cookie."
+        },
+        {
+          "id": 1,
+          "title": "Biscotti Flash.",
+          "content": " Alcune funzionalità del nostro Servizio possono utilizzare oggetti memorizzati localmente (o Flash Cookie) per raccogliere e memorizzare informazioni sulle tue preferenze o sulla tua attività sul nostro Servizio. I cookie flash non sono gestiti dalle stesse impostazioni del browser utilizzate per i cookie del browser. Per ulteriori informazioni su come eliminare i cookie Flash, leggere \"Dove posso modificare le impostazioni per la disabilitazione o l'eliminazione di oggetti condivisi locali?\" disponibile su https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_"
+        },
+        {
+          "id": 2,
+          "title": "Web Beacon.",
+          "content": " Alcune sezioni del nostro Servizio e delle nostre e-mail possono contenere piccoli file elettronici noti come web beacon (chiamati anche clear gif, pixel tag e single-pixel gif) che consentono alla Società, ad esempio, di contare gli utenti che hanno visitato quelle pagine o aperto un'e-mail e per altre statistiche del sito Web correlate (ad esempio, registrazione della popolarità di una determinata sezione e verifica dell'integrità del sistema e del server)."
+        }
+      ]
+    },
+    {
+      "sectionTextContent": "I cookie possono essere \"persistenti\" o \"di sessione\". I cookie persistenti rimangono sul tuo personal computer o dispositivo mobile quando vai offline, mentre i cookie di sessione vengono eliminati non appena chiudi il tuo browser web. Puoi saperne di più sui cookie qui: Cookie di TermsFeed Generator. Utilizziamo sia cookie di sessione che cookie persistenti per gli scopi indicati di seguito:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "title": "Cookie necessari/essenziali",
+          "content": "Tipo: Cookie di sessione. Amministrato da: Noi. Scopo: questi cookie sono essenziali per fornirti i servizi disponibili attraverso il sito Web e per consentirti di utilizzare alcune delle sue funzionalità. Aiutano ad autenticare gli utenti e prevenire l'uso fraudolento degli account utente. Senza questi cookie, i servizi che hai richiesto non possono essere forniti e utilizziamo questi cookie solo per fornirti tali servizi."
+        },
+        {
+          "id": 1,
+          "title": "Cookie Policy/Accettazione Avviso Cookie",
+          "content": "Tipo: Cookie persistenti. Amministrato da: Noi. Scopo: questi cookie identificano se gli utenti hanno accettato l'uso dei cookie sul sito web."
+        },
+        {
+          "id": 2,
+          "title": "Cookie di funzionalità",
+          "content": "Tipo: Cookie persistenti. Amministrato da: Noi. Scopo: questi cookie ci consentono di ricordare le scelte che fai quando utilizzi il sito Web, come ricordare i tuoi dati di accesso o la preferenza della lingua. Lo scopo di questi cookie è quello di fornirti un'esperienza più personale ed evitare che tu debba reinserire le tue preferenze ogni volta che utilizzi il sito web."
+        }
+      ]
+    },
+    {
+      "sectionTextContent": "Per ulteriori informazioni sui cookie che utilizziamo e le tue scelte in merito ai cookie, visita la nostra Politica sui cookie o la sezione Cookie della nostra Politica sulla privacy."
+    },
+    {
+      "sectionTitle": "Utilizzo dei tuoi dati personali",
+      "sectionTextContent": "La Società può utilizzare i Dati Personali per le seguenti finalità:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "title": "Per fornire e mantenere il nostro Servizio",
+          "content": ", anche per monitorare l'utilizzo del nostro Servizio."
+        },
+        {
+          "id": 1,
+          "title": "Per gestire il tuo account:",
+          "content": " per gestire la tua registrazione come utente del Servizio. I Dati Personali che fornisci possono darti accesso a diverse funzionalità del Servizio che sono a tua disposizione come utente registrato."
+        },
+        {
+          "id": 2,
+          "title": "Per l'esecuzione di un contratto:",
+          "content": "lo sviluppo, la conformità e l'esecuzione del contratto di acquisto per i prodotti, articoli o servizi che hai acquistato o di qualsiasi altro contratto con Noi tramite il Servizio."
+        },
+        {
+          "id": 3,
+          "title": "Per contattarti:",
+          "content": " Per contattarti tramite e-mail, telefonate, SMS o altre forme equivalenti di comunicazione elettronica, come le notifiche push di un'applicazione mobile in merito ad aggiornamenti o comunicazioni informative relative alle funzionalità, ai prodotti o ai servizi appaltati, inclusi gli aggiornamenti di sicurezza, quando necessario o ragionevole per la loro attuazione."
+        },
+        {
+          "id": 4,
+          "title": "Per fornirti",
+          "content": " con notizie, offerte speciali e informazioni generali su altri beni, servizi ed eventi che offriamo simili a quelli che hai già acquistato o per i quali hai chiesto informazioni, a meno che tu non abbia scelto di non ricevere tali informazioni."
+        },
+        {
+          "id": 5,
+          "title": "Per gestire le tue richieste:",
+          "content": " Per partecipare e gestire le Sue richieste a Noi."
+        },
+        {
+          "id": 6,
+          "title": "Per i trasferimenti d'impresa:",
+          "content": "Potremmo utilizzare le tue informazioni per valutare o condurre una fusione, dismissione, ristrutturazione, riorganizzazione, scioglimento o altra vendita o trasferimento di alcuni o tutti i nostri beni, sia come azienda in attività che come parte di fallimento, liquidazione o procedimento simile, in cui i Dati Personali da noi detenuti sugli utenti del nostro Servizio sono tra i beni trasferiti."
+        },
+        {
+          "id": 7,
+          "title": "Per altri scopi:",
+          "content": " Potremmo utilizzare le tue informazioni per altri scopi, come l'analisi dei dati, l'identificazione delle tendenze di utilizzo, la determinazione dell'efficacia delle nostre campagne promozionali e per valutare e migliorare il nostro Servizio, prodotti, servizi, marketing e la tua esperienza."
+        }
+      ]
+    },
+    {
+      "sectionTextContent": "Potremmo condividere le tue informazioni personali nelle seguenti situazioni:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "title": "Con i fornitori di servizi:",
+          "content": " Potremmo condividere le tue informazioni personali con i fornitori di servizi per monitorare e analizzare l'uso del nostro servizio, per contattarti."
+        },
+        {
+          "id": 1,
+          "title": "Per i trasferimenti d'impresa:",
+          "content": " Possiamo condividere o trasferire le tue informazioni personali in relazione a, o durante le negoziazioni di, qualsiasi fusione, vendita di beni della Società, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società."
+        },
+        {
+          "id": 2,
+          "title": "Con gli affiliati:",
+          "content": "Potremmo condividere le tue informazioni con i nostri affiliati, nel qual caso richiederemo a tali affiliati di rispettare la presente Informativa sulla privacy. Gli affiliati includono la nostra società madre e qualsiasi altra sussidiaria, partner di joint venture o altre società che controlliamo o che sono sotto il controllo comune con noi."
+        },
+        {
+          "id": 3,
+          "title": "Con i partner commerciali:",
+          "content": " Potremmo condividere le tue informazioni con i nostri partner commerciali per offrirti determinati prodotti, servizi o promozioni."
+        },
+        {
+          "id": 4,
+          "title": "Con altri utenti:",
+          "content": " quando condividi informazioni personali o interagisci in altro modo nelle aree pubbliche con altri utenti, tali informazioni possono essere visualizzate da tutti gli utenti e possono essere distribuite pubblicamente all'esterno."
+        },
+        {
+          "id": 5,
+          "title": "Con il tuo consenso:",
+          "content": "Potremmo divulgare le tue informazioni personali per qualsiasi altro scopo con il tuo consenso."
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Conservazione dei tuoi dati personali",
+      "sectionTextContent": "La Società conserverà i tuoi Dati Personali solo per il tempo necessario agli scopi indicati nella presente Informativa sulla privacy. Conserveremo e utilizzeremo i tuoi dati personali nella misura necessaria per adempiere ai nostri obblighi legali (ad esempio, se siamo tenuti a conservare i tuoi dati per rispettare le leggi applicabili), risolvere controversie e far rispettare i nostri accordi legali e le nostre politiche. conserverà anche i Dati di utilizzo per scopi di analisi interna. I Dati di utilizzo vengono generalmente conservati per un periodo di tempo più breve, tranne quando questi dati vengono utilizzati per rafforzare la sicurezza o per migliorare la funzionalità del Nostro Servizio, o quando siamo legalmente obbligati a conservare questi dati per periodi di tempo più lunghi."
+    },
+    {
+      "sectionTitle": "Trasferimento dei tuoi dati personali",
+      "sectionTextContent": "I tuoi dati, inclusi i Dati Personali, sono trattati presso le sedi operative della Società e in ogni altro luogo in cui si trovano le parti coinvolte nel trattamento. Significa che queste informazioni possono essere trasferite e mantenute su computer situati al di fuori del tuo stato, provincia, paese o altra giurisdizione governativa in cui le leggi sulla protezione dei dati potrebbero differire da quelle della tua giurisdizione. Il tuo consenso alla presente Informativa sulla privacy seguita dal tuo l'invio di tali informazioni rappresenta il tuo consenso a tale trasferimento. La Società adotterà tutte le misure ragionevolmente necessarie per garantire che i tuoi dati siano trattati in modo sicuro e in conformità con la presente Informativa sulla privacy e nessun trasferimento dei tuoi dati personali avrà luogo a un'organizzazione o a un paese a meno che non siano in atto controlli adeguati, inclusa la sicurezza dei tuoi dati e di altre informazioni personali."
+    },
+    {
+      "sectionMainSubTitle": "Divulgazione dei tuoi dati personali",
+      "sectionTitle": "Transazione d'affari",
+      "sectionTextContent": "Se la Società è coinvolta in una fusione, acquisizione o vendita di asset, i tuoi Dati Personali potrebbero essere trasferiti. Forniremo un avviso prima che i tuoi Dati Personali vengano trasferiti e diventino soggetti a una diversa Informativa sulla privacy."
+    },
+    {
+      "sectionTitle": "Forze dell'ordine",
+      "sectionTextContent": "In determinate circostanze, la Società potrebbe essere obbligata a divulgare i tuoi Dati Personali se richiesto dalla legge o in risposta a richieste valide da parte di autorità pubbliche (ad esempio un tribunale o un'agenzia governativa)."
+    },
+    {
+      "sectionTitle": "Altri requisiti legali",
+      "sectionTextContent": "La Società può divulgare i tuoi Dati Personali in buona fede, ritenendo che tale azione sia necessaria per:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "content": "Rispettare un obbligo legale"
+        },
+        {
+          "id": 1,
+          "content": "Proteggere e difendere i diritti o la proprietà della Società"
+        },
+        {
+          "id": 2,
+          "content": "Proteggere e difendere i diritti o la proprietà della Società"
+        },
+        {
+          "id": 3,
+          "content": "Prevenire o indagare su possibili illeciti in relazione al Servizio"
+        },
+        {
+          "id": 4,
+          "content": "Proteggere l'incolumità personale degli Utenti del Servizio o del pubblico"
+        },
+        {
+          "id": 5,
+          "content": "Proteggere dalla responsabilità legale"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Sicurezza dei tuoi dati personali",
+      "sectionTextContent": "La sicurezza dei tuoi dati personali è importante per noi, ma ricorda che nessun metodo di trasmissione su Internet o metodo di archiviazione elettronica è sicuro al 100%. Sebbene ci sforziamo di utilizzare mezzi commercialmente accettabili per proteggere i tuoi dati personali, non possiamo garantirne la sicurezza assoluta."
+    },
+    {
+      "sectionMainTitle": "Privacy dei bambini",
+      "sectionTextContent": "Il nostro servizio non si rivolge a persone di età inferiore ai 13 anni. Non raccogliamo consapevolmente informazioni di identificazione personale da persone di età inferiore ai 13 anni. Se sei un genitore o tutore e sei consapevole che tuo figlio ci ha fornito dati personali, ti preghiamo di Contattaci. Se veniamo a conoscenza del fatto che abbiamo raccolto Dati personali da persone di età inferiore ai 13 anni senza la verifica del consenso dei genitori, adottiamo misure per rimuovere tali informazioni dai Nostri server. Se dobbiamo fare affidamento sul consenso come base legale per l'elaborazione delle tue informazioni e Il tuo paese richiede il consenso di un genitore, potremmo richiedere il consenso dei tuoi genitori prima di raccogliere e utilizzare tali informazioni."
+    },
+    {
+      "sectionMainTitle": "Collegamenti ad altri siti web",
+      "sectionTextContent": "Il nostro servizio può contenere collegamenti ad altri siti Web che non sono gestiti da noi. Se fai clic su un collegamento di terze parti, verrai indirizzato al sito di tale terza parte. Ti consigliamo vivamente di rivedere l'Informativa sulla privacy di ogni sito che visiti. Non abbiamo alcun controllo e non ci assumiamo alcuna responsabilità per il contenuto, le politiche sulla privacy o le pratiche di siti o servizi di terze parti."
+    },
+    {
+      "sectionMainTitle": "Modifiche alla presente Informativa sulla privacy",
+      "sectionTextContent": "Potremmo aggiornare la nostra Informativa sulla privacy di volta in volta. Ti informeremo di eventuali modifiche pubblicando la nuova Informativa sulla privacy in questa pagina. Ti informeremo tramite e-mail e/o un avviso in evidenza sul Nostro Servizio, prima che la modifica diventi effettiva e aggiorneremo la data di \"Ultimo aggiornamento\" al inizio della presente Informativa sulla privacy. Si consiglia di rivedere periodicamente la presente Informativa sulla privacy per eventuali modifiche. Le modifiche alla presente Informativa sulla privacy sono efficaci quando vengono pubblicate su questa pagina."
+    },
+    {
+      "sectionMainTitle": "Contattaci",
+      "sectionTextContent": "In caso di domande sulla presente Informativa sulla privacy, puoi contattarci:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "content": "Per e-mail: support@optionsfy.com"
+        }
+      ]
+    }
+  ],
+  "disclaimer": [
+    {
+      "id": 0,
+      "title": "Disclaimer",
+      "content": "Ultimo aggiornamento: 15 febbraio 2022"
+    },
+    {
+      "id": 1,
+      "title": "Interpretazione e definizioni"
+    },
+    {
+      "id": 2,
+      "title": "Interpretazione",
+      "content": "Le parole di cui la lettera iniziale è maiuscola hanno significati definiti nelle seguenti condizioni. Le seguenti definizioni avranno lo stesso significato indipendentemente dal fatto che appaiano al singolare o al plurale."
+    },
+    {
+      "id": 3,
+      "title": "Definizioni",
+      "content": "Ai fini della presente Dichiarazione di non responsabilità:",
+      "list": [
+        {
+          "title": "Azienda",
+          "content": "(denominata \"la Società\", \"Noi\", \"Noi\" o \"Nostro\" in questa Dichiarazione di non responsabilità) si riferisce a Optionsfy LLC, 7901 4th St N, STE 300 St. Petersburg, FL 33702."
+        },
+        {
+          "title": "Servizio",
+          "content": "fa riferimento al Sito."
+        },
+        {
+          "title": "Voi",
+          "content": "indica la persona che accede al Servizio, la società o altra persona giuridica per conto della quale tale persona accede o utilizza il Servizio, a seconda dei casi."
+        },
+        {
+          "title": "Sito web",
+          "content": "si riferisce a Optionsfy, accessibile da https://www.optionsfy.com/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Disclaimer",
+      "content": "Le informazioni contenute nel Servizio sono solo a scopo informativo generale. La Società non si assume alcuna responsabilità per errori od omissioni nei contenuti del Servizio. In nessun caso la Società sarà ritenuta responsabile per eventuali danni speciali, diretti, indiretti, consequenziali o incidentali o per qualsiasi altro danno, sia in un'azione contrattuale, negligenza o altro illecito, derivante da o in connessione con l'uso del Servizio o i contenuti del Servizio. La Società si riserva il diritto di apportare integrazioni, cancellazioni o modifiche ai contenuti del Servizio in qualsiasi momento senza preavviso. La Società non garantisce che il Servizio sia privo di virus o altri componenti dannosi."
+    },
+    {
+      "id": 5,
+      "title": "Dichiarazione di non responsabilità sui collegamenti esterni",
+      "content": "Il Servizio può contenere collegamenti a siti Web esterni che non sono forniti o gestiti da o in alcun modo affiliati alla Società. Si prega di notare che la Società non garantisce l'accuratezza, la pertinenza, la tempestività o la completezza di qualsiasi informazione su questi siti Web esterni."
+    },
+    {
+      "id": 6,
+      "title": "Errori e omissioni Disclaimer",
+      "content": "Le informazioni fornite dal Servizio sono solo di orientamento generale su questioni di interesse. Anche se la Società adotta ogni precauzione per assicurare che il contenuto del Servizio sia aggiornato e accurato, possono verificarsi errori. Inoltre, data la natura mutevole di leggi, norme e regolamenti, potrebbero esserci ritardi, omissioni o imprecisioni nelle informazioni contenute nel Servizio. La Società non è responsabile per eventuali errori o omissioni, o per i risultati ottenuti dall'uso di queste informazioni."
+    },
+    {
+      "id": 7,
+      "title": "Dichiarazione di non responsabilità sull'uso corretto",
+      "content": "La Società può utilizzare materiale protetto da copyright che non è sempre stato specificamente autorizzato dal titolare del copyright. La Società sta mettendo a disposizione tale materiale per critiche, commenti, notizie, insegnamento, borse di studio o ricerche. La Società ritiene che ciò costituisca un \"uso corretto\" di qualsiasi materiale protetto da copyright come previsto nella sezione 107 della legge sul copyright degli Stati Uniti. Se desideri utilizzare materiale protetto da copyright dal Servizio per scopi personali che vanno oltre il fair use, devi ottenere l'autorizzazione dal proprietario del copyright."
+    },
+    {
+      "id": 8,
+      "title": "Visualizzazioni espresse Disclaimer",
+      "content": "Il Servizio può contenere punti di vista e opinioni che sono quelli degli autori e non riflettono necessariamente la politica o la posizione ufficiale di qualsiasi altro autore, agenzia, organizzazione, datore di lavoro o azienda, inclusa la Società. I commenti pubblicati dagli utenti sono di loro esclusiva responsabilità e gli utenti si assumeranno la piena responsabilità, responsabilità e colpa per qualsiasi diffamazione o controversia che derivi da qualcosa scritto o come risultato diretto di qualcosa scritto in un commento. La Società non è responsabile per qualsiasi commento pubblicato dagli utenti e si riserva il diritto di eliminare qualsiasi commento per qualsiasi motivo."
+    },
+    {
+      "id": 9,
+      "title": "Nessuna responsabilità",
+      "content": "Le informazioni sul Servizio sono fornite con la consapevolezza che la Società non è qui impegnata a fornire consulenza e servizi legali, contabili, fiscali o di altro tipo. In quanto tale, non dovrebbe essere utilizzato come sostituto della consultazione con consulenti contabili, fiscali, legali o di altro tipo competenti. In nessun caso la Società oi suoi fornitori potranno essere ritenuti responsabili per eventuali danni speciali, incidentali, indiretti o consequenziali derivanti da o in connessione con l'accesso o l'uso o l'impossibilità di accedere o utilizzare il Servizio."
+    },
+    {
+      "id": 10,
+      "title": "Dichiarazione di non responsabilità \"Utilizzo a proprio rischio\".",
+      "content": "Tutte le informazioni nel Servizio sono fornite \"così come sono\", senza alcuna garanzia di completezza, accuratezza, tempestività o dei risultati ottenuti dall'uso di tali informazioni, e senza garanzie di alcun tipo, esplicite o implicite, incluse, ma non limitate a garanzie di prestazione, commerciabilità e idoneità per uno scopo particolare. La Società non sarà responsabile nei confronti dell'Utente o di chiunque altro per qualsiasi decisione presa o azione intrapresa in base alle informazioni fornite dal Servizio o per eventuali danni consequenziali, speciali o simili, anche se avvisati della possibilità di tali danni."
+    },
+    {
+      "id": 12,
+      "title": "Contattaci",
+      "content": "In caso di domande su questo Disclaimer, puoi contattarci:",
+      "list": [
+        {
+          "title": "Per e-mail:",
+          "content": "support@optionsfy.com"
+        }
+      ]
+    }
+  ],
+  "termsOfService": [
+    {
+      "pageTitle": "TERMINI DEI SERVIZI",
+      "pageSubtitle": "SI PREGA DI LEGGERE ATTENTAMENTE QUESTE CONDIZIONI DI SERVIZIO, IN QUANTO CONTIENE INFORMAZIONI IMPORTANTI RELATIVE AI DIRITTI LEGALI E AI RIMEDI. Ultima revisione: 16-02-2022 19:23:25"
+    },
+    {
+      "sectionTitle": "1. PANORAMICA",
+      "sectionTextContent": "Il presente Accordo sui Termini di servizio (\"Contratto\") è stipulato da e tra Optionsfy, sede legale 7901 4th St N, STE 300 St. Petersburg, FL 33702, Stati Uniti, Florida (\"Società\") e te, ed è reso effettivo a partire dalla data di utilizzo di questo sito Web https://www.optionsfy.com/ (\"Sito\") o dalla data di accettazione elettronica. Il presente Accordo stabilisce i termini e le condizioni generali del tuo utilizzo di https://www.optionsfy.com/ così come i prodotti e/o servizi acquistati o accessibili tramite questo Sito (i \"Servizi\"). Che tu sia semplicemente la navigazione o l'utilizzo di questo Sito o l'acquisto di Servizi, l'utilizzo di questo Sito e l'accettazione elettronica del presente Accordo significa che hai letto, compreso, riconosciuto e accettato di essere vincolato dal presente Accordo, la nostra Informativa sulla privacy. I termini \"noi\", \"ci\" o \"nostro\" si riferiscono alla Società. I termini \"tu\", \"tuo\", \"Utente\" o \"cliente\" si riferiscono a qualsiasi individuo o entità che accetta il presente Accordo, utilizza il nostro Sito, ha accesso o utilizza i Servizi. Nulla di quanto contenuto nel presente Accordo potrà essere ritenuto conferire diritti o vantaggi a terzi. La Società può, a sua esclusiva e assoluta discrezione, cambiare o modificare il presente Accordo e qualsiasi politica o accordo qui incorporato, in qualsiasi momento, e tali modifiche o modifiche entreranno in vigore immediatamente dopo la pubblicazione su questo Sito. L'utilizzo di questo Sito o dei Servizi dopo che tali modifiche o modifiche sono state apportate costituirà l'accettazione del presente Accordo come ultima revisione. SE NON SI ACCETTA DI ESSERE VINCOLATO DA QUESTO ACCORDO COME ULTIMA REVISIONE, NON UTILIZZARE (O CONTINUARE A UTILIZZARE) QUESTO SITO O I SERVIZI."
+    },
+    {
+      "sectionTitle": "2. AMMISSIBILITÀ",
+      "sectionTextContent": "Questo Sito e i Servizi sono disponibili solo per gli Utenti che possono stipulare contratti legalmente vincolanti ai sensi della legge applicabile. Utilizzando questo Sito o i Servizi, dichiari e garantisci di avere (i) almeno diciotto (18) anni di età, (ii) altrimenti riconosciuto come in grado di stipulare contratti legalmente vincolanti ai sensi della legge applicabile e (iii) di essere non una persona a cui è vietato acquistare o ricevere i Servizi previsti dalle leggi degli Stati Uniti o da altre giurisdizioni applicabili. Se stai stipulando il presente Accordo per conto di una società o di qualsiasi entità aziendale, dichiari e garantisci di avere l'autorità legale per vincolare tale entità aziendale ai termini e alle condizioni contenuti nel presente Accordo, nel qual caso i termini \"tu\" , \"tuo\", \"Utente\" o \"cliente\" si riferiscono a tale entità aziendale. Se, dopo la tua accettazione elettronica del presente Accordo, la Società scopre che non hai l'autorità legale per vincolare tale entità aziendale, sarai personalmente responsabile degli obblighi contenuti nel presente Accordo."
+    },
+    {
+      "sectionTitle": "3. REGOLE DI COMPORTAMENTO DELL'UTENTE",
+      "sectionTextContent": "Utilizzando questo sito riconosci e accetti che:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "content": "L'utilizzo di questo Sito, incluso qualsiasi contenuto inviato, rispetterà il presente Accordo e tutte le leggi, le norme e i regolamenti locali, statali, nazionali e internazionali applicabili."
+        }
+      ]
+    },
+    {
+      "sectionTextContent": "Non utilizzerai questo Sito in un modo che:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "content": "è illegale o promuove o incoraggia attività illegali;"
+        },
+        {
+          "id": 1,
+          "content": "Promuove, incoraggia o partecipa alla pornografia infantile o allo sfruttamento dei bambini;"
+        },
+        {
+          "id": 2,
+          "content": "Promuove, incoraggia o partecipa al terrorismo, alla violenza contro persone, animali o proprietà;"
+        },
+        {
+          "id": 3,
+          "content": "Promuove, incoraggia o partecipa a qualsiasi spam o altra e-mail di massa non richiesta, o hacking o cracking di computer o rete;"
+        },
+        {
+          "id": 4,
+          "content": "Viola i diritti di proprietà intellettuale di un altro Utente o di qualsiasi altra persona o entità;"
+        },
+        {
+          "id": 5,
+          "content": "Viola i diritti alla privacy o alla pubblicità di un altro Utente o di qualsiasi altra persona o entità, o viola qualsiasi obbligo di riservatezza dovuto a un altro Utente o qualsiasi altra persona o entità;"
+        },
+        {
+          "id": 6,
+          "content": "Interferisce con il funzionamento di questo Sito;"
+        },
+        {
+          "id": 7,
+          "content": "Contiene o installa virus, worm, bug, cavalli di Troia, minatori di criptovalute o altri codici, file o programmi progettati o in grado di utilizzare molte risorse, interrompendo, danneggiando o limitando la funzionalità di qualsiasi software o hardware."
+        }
+      ]
+    },
+    {
+      "sectionTextContent": "Non lo farai:",
+      "listTextItems": [
+        {
+          "id": 0,
+          "content": "copiare o distribuire con qualsiasi mezzo qualsiasi parte di questo Sito, salvo ove espressamente autorizzato dalla Società,"
+        },
+        {
+          "id": 1,
+          "content": "copiare o duplicare il presente accordo sui Termini di servizio,"
+        },
+        {
+          "id": 2,
+          "content": "modificare o alterare qualsiasi parte di questo Sito o una qualsiasi delle relative tecnologie,"
+        },
+        {
+          "id": 3,
+          "content": "accedere ai Contenuti della Società (come definito di seguito) o ai Contenuti dell'utente tramite qualsiasi tecnologia o mezzo diverso dal presente Sito stesso."
+        }
+      ]
+    },
+    {
+      "sectionTitle": "4. PROPRIETA' INTELLETTUALE",
+      "sectionTextContent": "Oltre alle regole generali di cui sopra, le disposizioni di questa Sezione si applicano specificamente all'utilizzo dei Contenuti della Società pubblicati sul Sito. Contenuti aziendali su questo Sito, inclusi, a titolo esemplificativo, testo, software, script, codice sorgente, API, grafica, foto, suoni, musica, video e funzionalità interattive e marchi, marchi di servizio e loghi ivi contenuti (\"Contenuti aziendali\") sono di proprietà o concessi in licenza a Optionsfy a tempo indeterminato e sono soggetti a copyright, marchio e/o protezione brevettuale. I Contenuti aziendali ti vengono forniti \"così come sono\", \"come disponibili\" e \"con tutti i difetti\" per tua informazione e solo per uso personale e non commerciale e non possono essere scaricati, copiati, riprodotti, distribuiti, trasmessi, trasmessi, visualizzati, venduto, concesso in licenza o altrimenti sfruttato per qualsiasi scopo senza il previo consenso scritto della Società. Nessun diritto o licenza ai sensi di alcun diritto d'autore, marchio, brevetto o altro diritto o licenza di proprietà è concesso dal presente Accordo."
+    },
+    {
+      "sectionTitle": "5. ESCLUSIONE DI DICHIARAZIONI E GARANZIE",
+      "sectionTextContent": "L'UTENTE RICONOSCE E ACCETTA IN PARTICOLARE CHE L'UTILIZZO DI QUESTO SITO SARÀ A PROPRIO RISCHIO E CHE QUESTO SITO VIENE FORNITO \"COSÌ COM'È\", \"COME DISPONIBILE\" E \"CON TUTTI I DIFETTI\". L'AZIENDA, I SUOI FUNZIONARI, AMMINISTRATORI, DIPENDENTI, AGENTI, DECLINANO OGNI GARANZIA, LEGALE, ESPRESSA O IMPLICITA, INCLUSE, MA NON LIMITATE A, QUALSIASI GARANZIA IMPLICITA DI TITOLO, COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. L'AZIENDA, I SUOI FUNZIONARI, AMMINISTRATORI, DIPENDENTI E AGENTI NON RILASCIANO ALCUNA DICHIARAZIONE O GARANZIA RIGUARDO (I) L'ACCURATEZZA, LA COMPLETEZZA O IL CONTENUTO DI QUESTO SITO, (II) L'ACCURATEZZA, LA COMPLETEZZA O IL CONTENUTO DI QUALSIASI SITO COLLEGATO (TRAMITE COLLEGAMENTI IPERTESTUALI, BANNER PUBBLICITÀ O ALTRO) A QUESTO SITO, E/O (III) I SERVIZI TROVATI IN QUESTO SITO O QUALSIASI SITO COLLEGATO (ATTRAVERSO IPERLINK, BANNER PUBBLICITARI O ALTRO) A QUESTO SITO, E L'AZIENDA NON SI ASSUME ALCUNA RESPONSABILITÀ PER GLI STESSI. INOLTRE, L'UTENTE RICONOSCE E ACCETTA SPECIFICAMENTE CHE NESSUNA INFORMAZIONE O CONSIGLIO ORALE O SCRITTO FORNITO DALLA SOCIETÀ, DAI SUOI FUNZIONARI, AMMINISTRATORI, DIPENDENTI O AGENTI E FORNITORI DI SERVIZI DI TERZE PARTI (I) COSTITUIRÀ CONSULENZA LEGALE O FINANZIARIA O (II) CREERÀ UNA GARANZIA DI ALCUN TIPO RELATIVAMENTE A QUESTO SITO O AI SERVIZI TROVATI IN QUESTO SITO E GLI UTENTI NON DEVONO FARE AFFIDAMENTO SU TALI INFORMAZIONI O CONSIGLI. LA PRECEDENTE ESCLUSIONE DI DICHIARAZIONI E GARANZIE SI APPLICA NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE e sopravvive a qualsiasi risoluzione o scadenza del presente Accordo o all'utilizzo da parte dell'utente di questo Sito o dei Servizi presenti in questo Sito."
+    },
+    {
+      "sectionTitle": "6. LIMITAZIONE DI RESPONSABILITA'",
+      "sectionTextContent": "IN NESSUN CASO LA SOCIETÀ, I SUOI FUNZIONARI, AMMINISTRATORI, DIPENDENTI, AGENTI E TUTTI I FORNITORI DI SERVIZI DI TERZE PARTI SARANNO RESPONSABILI NEI CONFRONTI DELL'UTENTE O DI QUALSIASI ALTRA PERSONA O ENTITÀ PER QUALSIASI DANNO DIRETTO, INDIRETTO, ACCIDENTALE, SPECIALE, PUNTIVO O CONSEQUENZIALE, COMPRESI EVENTUALI DANNI DERIVANTI DA (I) L'ACCURATEZZA, LA COMPLETEZZA O IL CONTENUTO DI QUESTO SITO, (II) L'ACCURATEZZA, LA COMPLETEZZA O IL CONTENUTO DI QUALSIASI SITO COLLEGATO (ATTRAVERSO IPERLINK, BANNER PUBBLICITARI O ALTRO) A QUESTO SITO, (III) I SERVIZI TROVATI IN QUESTO SITO O QUALSIASI SITO COLLEGATO (ATTRAVERSO COLLEGAMENTI IPERTESTUALI, BANNER PUBBLICITARI O ALTRO) A QUESTO SITO, (IV) LESIONI PERSONALI O DANNI MATERIALI DI QUALSIASI NATURA, (V) COMPORTAMENTI DI TERZI DI QUALSIASI NATURA, (VI ) QUALSIASI INTERRUZIONE O CESSAZIONE DI SERVIZI DA O VERSO QUESTO SITO O QUALSIASI SITO COLLEGATO (ATTRAVERSO COLLEGAMENTI IPERTESTUALI, BANNER PUBBLICITARI O ALTRO) A QUESTO SITO, (VII) QUALSIASI VIRUS, WORM, BUG, CAVALLI DI TROIA O SIMILI CHE POSSONO ESSERE TRASMESSI A O DA QUESTO SITO O QUALSIASI SITO COLLEGATO (ATTRAVERSO COLLEGAMENTI IPERTESTUALI, BANNER PUBBLICITARI O ALTRO) AL PRESENTE SITO, (VIII) QUALSIASI CONTENUTO DELL'UTENTE O CONTENUTO DIffamatorio, molesto, offensivo, dannoso per i minori o qualsiasi classe protetta, pornografica, \"X-rated\", osceno o altrimenti discutibile , E/O (IX) QUALSIASI PERDITA O DANNO DI QUALSIASI TIPO SUBITO COME RISULTATO DELL'UTILIZZO DI QUESTO SITO O DEI SERVIZI TROVATI IN QUESTO SITO, SIA BASATO SU GARANZIA, CONTRATTO, ILLECITO O QUALSIASI ALTRA TEORIA LEGALE O Equa, E SE LA SOCIETA' E' AVVISATA O NO DELLA POSSIBILITA' DI TALI DANNI. INOLTRE, L'UTENTE RICONOSCE E ACCETTA SPECIFICAMENTE che qualsiasi causa di azione derivante da o correlata a questo Sito o ai Servizi presenti in questo Sito deve essere avviata entro un (1) anno dalla maturazione della causa di azione, altrimenti tale causa di azione dovrà essere permanentemente precluso. LA PRECEDENTE LIMITAZIONE DI RESPONSABILITA' SI APPLICA NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE E sopravvivrà a qualsiasi risoluzione o scadenza del presente Accordo o all'utilizzo da parte dell'utente di questo Sito o dei Servizi presenti in questo Sito."
+    },
+    {
+      "sectionTitle": "7. INDENNITÀ",
+      "sectionTextContent": "Accetti di proteggere, difendere, indennizzare e tenere indenne la Società e i suoi funzionari, direttori, dipendenti, agenti da e contro qualsiasi pretesa, richiesta, costo, spesa, perdita, responsabilità e danno di ogni tipo e natura (inclusi, a titolo esemplificativo, , spese legali ragionevoli) imposte o sostenute dalla Società direttamente o indirettamente derivanti da (i) l'utilizzo e l'accesso a questo Sito da parte dell'utente; (ii) la tua violazione di qualsiasi disposizione del presente Accordo o delle politiche o accordi qui incorporati; e/o (iii) la violazione da parte dell'utente di qualsiasi diritto di terzi, inclusi, a titolo esemplificativo, qualsiasi proprietà intellettuale o altro diritto di proprietà. Gli obblighi di indennizzo ai sensi della presente sezione sopravvivranno a qualsiasi risoluzione o scadenza del presente Accordo o all'utilizzo da parte dell'utente di questo Sito o dei Servizi presenti su questo Sito."
+    },
+    {
+      "sectionTitle": "8. TRASFERIMENTO DEI DATI",
+      "sectionTextContent": "Se stai visitando questo Sito da un paese diverso da quello in cui si trovano i nostri server, le tue comunicazioni con noi potrebbero comportare il trasferimento di informazioni oltre i confini internazionali. Visitando questo Sito e comunicando elettronicamente con noi, acconsenti a tali trasferimenti."
+    },
+    {
+      "sectionTitle": "9. DISPONIBILITA' DEL SITO",
+      "sectionTextContent": "Fatti salvi i termini e le condizioni del presente Accordo e le nostre politiche, faremo ogni sforzo commercialmente ragionevole per tentare di fornire questo Sito 24 ore su 24, 7 giorni su 7. Riconosci e accetti che di volta in volta questo Sito potrebbe essere inaccessibile per qualsiasi motivo, inclusi, ma non limitati a, manutenzione periodica, riparazioni o sostituzioni che intraprendiamo di volta in volta, o altre cause al di fuori del nostro controllo, inclusi, ma non limitati a , interruzione o guasto dei collegamenti di telecomunicazione o di trasmissione digitale o altri guasti. Riconosci e accetti che non abbiamo alcun controllo sulla disponibilità di questo sito su base continua o ininterrotta e che non ci assumiamo alcuna responsabilità nei confronti dell'utente o di qualsiasi altra parte in merito."
+    },
+    {
+      "sectionTitle": "10. SERVIZI INTERROTTI",
+      "sectionTextContent": "La Società si riserva il diritto di cessare l'offerta o la fornitura di qualsiasi Servizio in qualsiasi momento, per qualsiasi o nessuna ragione e senza preavviso. Sebbene l'Azienda faccia grandi sforzi per massimizzare la durata di tutti i suoi Servizi, ci sono momenti in cui un Servizio che offriamo verrà interrotto. In tal caso, quel prodotto o servizio non sarà più supportato dalla Società. In tal caso, la Società offrirà un Servizio simile a cui migrare o un rimborso. La Società non sarà responsabile nei confronti dell'utente o di terzi per qualsiasi modifica, sospensione o interruzione di uno qualsiasi dei Servizi che potremmo offrire o a cui facilitare l'accesso."
+    },
+    {
+      "sectionTitle": "11. COMMISSIONI E PAGAMENTI",
+      "sectionTextContent": "Riconosci e accetti che il tuo pagamento verrà addebitato ed elaborato da Optionsfy. Accetti di pagare tutti i prezzi e le commissioni dovute per i Servizi acquistati o ottenuti su questo Sito al momento dell'ordine dei Servizi. La Società si riserva espressamente il diritto di cambiare o modificare i propri prezzi e commissioni in qualsiasi momento, e tali modifiche o modifiche saranno pubblicate online su questo Sito ed efficaci immediatamente senza necessità di ulteriore avviso. Salvo quanto espressamente previsto nei presenti Termini, tutti gli addebiti e i pagamenti non sono rimborsabili, non cancellabili e non accreditabili, anche se i Servizi dell'utente vengono sospesi, terminati o trasferiti prima della fine della durata dei Servizi."
+    },
+    {
+      "sectionTitle": "12. NESSUN BENEFICIARIO DI TERZI",
+      "sectionTextContent": "Nulla di quanto contenuto nel presente Accordo potrà essere ritenuto conferire diritti o vantaggi a terzi."
+    },
+    {
+      "sectionTitle": "13. RISPETTO DELLE LEGGI LOCALI",
+      "sectionTextContent": "La Società non rilascia alcuna dichiarazione o garanzia che i contenuti disponibili su questo Sito siano appropriati in ogni Paese o giurisdizione e l'accesso a questo Sito da Paesi o giurisdizioni in cui il suo contenuto è illegale è proibito. Gli utenti che scelgono di accedere a questo Sito sono responsabili del rispetto di tutte le leggi, norme e regolamenti locali."
+    },
+    {
+      "sectionTitle": "14. LEGGE APPLICABILE",
+      "sectionTextContent": "Il presente Accordo e qualsiasi controversia o reclamo derivante da o in connessione con esso o il suo oggetto o formazione saranno regolati e interpretati in conformità con le leggi degli Stati Uniti, Florida, ad esclusione delle norme sul conflitto di leggi."
+    },
+    {
+      "sectionTitle": "15. RISOLUZIONE DELLE CONTROVERSIE",
+      "sectionTextContent": "Qualsiasi controversia o reclamo derivante da o relativo ai presenti Termini di servizio sarà risolta mediante arbitrato vincolante. Qualsiasi controversia o pretesa di questo tipo deve essere arbitrata su base individuale e non deve essere consolidata in alcun arbitrato con alcuna pretesa o controversia di qualsiasi altra parte. L'arbitrato deve essere condotto negli Stati Uniti, in Florida, e il giudizio sul lodo arbitrale può essere emesso in qualsiasi tribunale avente giurisdizione."
+    },
+    {
+      "sectionTitle": "16. TITOLI E INTESTAZIONI",
+      "sectionTextContent": "I titoli e i titoli del presente Accordo sono solo per comodità e facilità di riferimento e non devono essere utilizzati in alcun modo per interpretare o interpretare l'accordo delle parti come altrimenti stabilito nel presente documento."
+    },
+    {
+      "sectionTitle": "17. SEPARABILITA'",
+      "sectionTextContent": "Ogni patto e accordo nel presente Accordo deve essere interpretato a tutti gli effetti come un patto o accordo separato e indipendente. Se un tribunale della giurisdizione competente ritiene che una disposizione (o parte di una disposizione) del presente Accordo sia illegale, non valida o altrimenti inapplicabile, le restanti disposizioni (o parti di disposizioni) del presente Accordo non ne saranno interessate e saranno trovate essere valido e applicabile nella misura massima consentita dalla legge."
+    },
+    {
+      "sectionTitle": "18. INFORMAZIONI DI CONTATTO",
+      "sectionTextContent": "In caso di domande sul presente Accordo, contattaci tramite e-mail o posta ordinaria al seguente indirizzo: Optionsfy | 7901 4th St N, STE 300 San Pietroburgo , FL 33702 | Stati Uniti, Florida | support@optionsfy.com"
+    }
+  ]
+}

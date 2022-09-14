@@ -1,0 +1,192 @@
+/* MANFREDI */
+
+.heroGradient{
+    background: linear-gradient(to left,rgba(35, 59, 114, 1),rgba(52, 56, 75, 1) )
+}
+
+.heroBGButton{
+    background-color: rgba(101, 132, 140, 1);
+}
+
+/* LORENZO */
+.cardborders {
+    border-radius: 20px;
+}
+.offerButton1 {
+background-color: #364261;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+
+.offerButton2 {
+    background-color: #364261;
+      border: none;
+      color: #DEA40D;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border-radius: 15px;
+    }
+
+.footer-cards-gradient {
+    background: linear-gradient(to right,rgba(35, 59, 114, 1),rgba(52, 56, 75, 1) )
+}
+
+.burgerMenu:focus{
+    box-shadow: none;
+}
+
+.card-img{
+    width: 300px;
+    height: 300px;
+}
+
+.card-text-box-right{
+    background: #3C4651;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #D4E1E5;
+    flex: none;
+    box-sizing: border-box ;
+    font-size: 24px;
+
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+.card-text-box-left{
+    background: #3C4651;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #D4E1E5;
+    flex: none;
+    box-sizing: border-box ;
+    font-size: 24px;
+
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+
+.card-text-title{
+    color: #AEBFC5;
+}
+
+.languageToggle:active, .languageToggle:focus, .languageToggle:hover, .languageToggle:checked{
+    box-shadow: none !important;
+    border: none !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+    outline: 0 !important;
+}
+.formButton {
+    border: 1px solid white;
+    color: white;
+    width: 70%;
+}
+
+.formBackground {
+  background: linear-gradient(to right,rgba(35, 59, 114, 1),rgba(52, 56, 75, 1) );
+}
+
+.inputForm{
+    background: linear-gradient(to right,rgba(35, 59, 114, 1),rgba(52, 56, 75, 1) );
+    border: 1px solid white;
+    color: white;
+    width: 70%;
+}
+
+.modalCloseButton{
+    width: 40%;
+    border: 1px solid white;
+    color: white;
+}
+
+.modalCloseButton:hover{
+    background-color: rgba(101, 132, 140, 1);
+    border-color: white;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+button:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+#uncontrolled-tab-example-tab-login, #uncontrolled-tab-example-tab-signup{
+    width: 100%;
+    border: none;
+    background-color: transparent;
+}
+
+
+
+#uncontrolled-tab-example-tab-login:focus,  #uncontrolled-tab-example-tab-login:active,  #uncontrolled-tab-example-tab-login:hover, #uncontrolled-tab-example-tab-signup:focus,  #uncontrolled-tab-example-tab-signup:active,  #uncontrolled-tab-example-tab-signup:hover{
+   background-color:transparent;
+   color: white;
+   border: none;
+}
+
+#uncontrolled-tab-example-tab-login:hover, #uncontrolled-tab-example-tab-signup:hover{
+    transform: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+}
+
+#uncontrolled-tab-example-tab-login:focus, #uncontrolled-tab-example-tab-signup:focus {
+    border: 1px solid white;
+}
+
+
+.nav-item{
+    width: 50%;
+}
+
+.row{
+ margin-left: 0 !important;
+ margin-right: 0 !important;
+
+}
+
+.contactUsButton{
+    background-color: rgba(101, 132, 140, 1);
+    border: 1px solid white;
+    position: fixed;
+    right: 2vw;
+    bottom: 1.5vw;
+
+}
+
+.contactUsButton:hover{
+    background-color: rgba(101, 132, 140, 1);
+    border-color: white;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.contactUsButton:focus{
+    background-color: rgba(101, 132, 140, 1);
+    box-shadow: none;
+    border-color: white;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
